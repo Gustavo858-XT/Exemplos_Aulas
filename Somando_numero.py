@@ -1,0 +1,12 @@
+print("=" * 60)
+print("Somando dois números" . center(50, '-'))
+print("=" * 60)
+print()
+print("=" * 60)
+print(f"{'Multiplicando dois números':-^50}")
+print("=" * 60)
+#Operadores com string
+print("=" * 20)
+print("Oi corno\n" * 5)
+print("*" * 9)
+print("Oi " + "Corno")
